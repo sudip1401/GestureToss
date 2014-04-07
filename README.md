@@ -13,3 +13,5 @@ To run this game
 1. Install the SDK
 2. Connect the camera
 3. Run the .exe
+
+The scripts used in the game can be found in GestureToss/Assets/Scripts
